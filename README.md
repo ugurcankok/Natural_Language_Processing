@@ -1,4 +1,4 @@
-# Natural_Language_Processing
+# Natural Language Processing Repository
 
 You can look at my work on computer vision in this repository.
 
