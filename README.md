@@ -1,6 +1,6 @@
 # Natural Language Processing Repository
 
-You can look at my work on computer vision in this repository.
+You can look at my work on Natural Language Processing in this repository.
 
 In this repository, you will find my works in src folder:
 
